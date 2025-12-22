@@ -1,0 +1,16 @@
+# frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# backend
+backend/target/
+backend/.env
+
+# common
+.env
+# Eclipse / IDE files
+.metadata/
+.classpath
+.project
+.settings/
